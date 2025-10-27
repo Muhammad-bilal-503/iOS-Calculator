@@ -234,7 +234,7 @@ SOFTWARE.
 
 **Your Name**
 - GitHub: [@Muhammad-bilal-503](https://github.com/Muhammad-bilal-503)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- LinkedIn: [@Muhammad Bilal](www.linkedin.com/in/muhammad-bilal-aa5364344)
 - Email: mughalbillal0012345@gmail.com
 
 ## 🙏 Acknowledgments
