@@ -200,21 +200,13 @@ Adjust the CSS Grid configuration:
 
 - None currently! 🎉
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 License
 
 This project is licensed under the MIT License - see below for details:
 
-```
+
 MIT License
 
 Copyright (c) 2025 [Your Name]
@@ -236,7 +228,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
+
 
 ## 👨‍💻 Author
 
@@ -248,7 +240,6 @@ SOFTWARE.
 ## 🙏 Acknowledgments
 
 - Design inspired by Apple's iOS Calculator
-- Icons from [your icon source]
 - Glassmorphism design trends
 - iPhone calculator UI/UX principles
 
